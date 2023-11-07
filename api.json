@@ -1,14 +1,125 @@
 [
-  {"id":"thapaserialnoa","name":"Iphone x","company":"apple","price":6000000,"colors":["#ff0000","#000000","#CDD0D0"],"image":"https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","description":"The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"mobile","featured":true},
-  {"id":"thapaserialnob","name":"Samsung s20","company":"samsung","price":5000000,"colors":["#000","#22D3EF"],"image":"https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","description":"The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"mobile","shipping":true},
-  {"id":"thapaserialnoc","name":"Dell Series","company":"dell","price":600000,"colors":["#22D3EF","#CDD0D0"],"image":"https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","description":"The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"laptop"},
-  {"id":"thapaserialnod","name":"Nokia 420","company":"nokia","price":12599,"colors":["#000","#000000","#CDD0D0"],"image":"https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","description":"The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"mobile","shipping":true},
-  {"id":"thapaserialnoe","name":"Mac Pc","company":"apple","price":4000099,"colors":["#000","#CDD0D0"],"image":"https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","description":"The Computer is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"computer","shipping":true},
-  {"id":"thapaserialnof","name":"Macbook Pro","company":"apple","price":42999,"colors":["#000000","#CDD0D0"],"image":"https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","description":"The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"laptop","shipping":true},
-  {"id":"thapaserialnog","name":"Asus G-series","company":"asus","price":23999,"colors":["#CDD0D0","#000"],"image":"https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","description":"The laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"laptop","shipping":true},
-  {"id":"thapaserialnoh","name":"Accessories","price":1099999,"company":"lenova","colors":["#000","#CDD0D0"],"image":"https://images.pexels.com/photos/3178938/pexels-photo-3178938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","description":"The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"accessories","featured":true,"shipping":true},
-  {"id":"thapaserialnoi","name":"Iwatch","price":39999,"company":"apple","colors":["#000000"],"image":"https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","description":"This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"watch","shipping":true},
-  {"id":"thapaserialnoj","name":"User Need","company":"apple","price":300099,"colors":["#ff0000","#22D3EF","#000000"],"image":"https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","description":"The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"accessories"},
-  {"id":"thapaserialnok","name":"Rolex premium","company":"rolex","price":999999,"colors":["#000000","#CDD0D0"],"image":"https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","description":"This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"watch"},
-  {"id":"thapaserialnol","name":"Galaxy w20","price":311999,"company":"samsung","colors":["#22D3EF","#ff0000","#000000"],"image":"https://images.pexels.com/photos/51011/pexels-photo-51011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1","description":"This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.","category":"watch","featured":true}
+{
+  "id": 1,
+  "name": "Product Name 1",
+  "price": 49.99,
+  "company": "Company Name 1",
+  "colors": ["#FF5733", "#C70039", "#FFC300"],
+  "image": "https://example.com/product1.jpg",
+  "description": "Description for Product 1. This is a high-quality product with great features.",
+  "category": "Category 1",
+  "shipping": true
+},
+
+{
+  "id": 2,
+  "name": "Smartphone Camera Lens Kit",
+  "price": 49.95,
+  "company": "CapturePro",
+  "colors": ["#000000", "#808080", "#A9A9A9"],
+  "image": "https://example.com/camera-lens-kit.jpg",
+  "description": "Enhance your smartphone photography with this high-quality camera lens kit. Includes wide-angle, macro, and fisheye lenses. Compatible with most smartphones, this kit allows you to capture stunning photos and videos.",
+  "category": "Photography",
+  "shipping": true
+},
+
+{
+  "id": 3,
+  "name": "Vintage Leather Messenger Bag",
+  "price": 129.99,
+  "company": "RetroStyle Co.",
+  "colors": ["#8B4513", "#D2B48C", "#A52A2A"],
+  "image": "https://example.com/vintage-messenger-bag.jpg",
+  "description": "Classic vintage leather messenger bag made from high-quality full-grain leather. Features multiple compartments, adjustable shoulder strap, and brass hardware. Ideal for carrying laptops, tablets, and everyday essentials in style.",
+  "category": "Bags",
+  "shipping": true
+},
+
+{
+  "id": 4,
+  "name": "Wireless Noise-Canceling Headphones",
+  "price": 199.99,
+  "company": "SoundSphere",
+  "colors": ["#000000", "#333333", "#808080"],
+  "image": "https://example.com/noise-canceling-headphones.jpg",
+  "description": "Immerse yourself in superior sound quality with these wireless noise-canceling headphones. Experience deep bass, clear mids, and crisp highs. Comfortable over-ear design with long-lasting battery life for extended listening sessions.",
+  "category": "Electronics",
+  "shipping": true
+},
+
+{
+  "id": 5,
+  "name": "Professional Chef's Knife Set",
+  "price": 149.95,
+  "company": "CulinaryCraft",
+  "colors": ["#000000", "#A52A2A", "#D2691E"],
+  "image": "https://example.com/chefs-knife-set.jpg",
+  "description": "Upgrade your kitchen with this premium chef's knife set. Crafted from high-carbon stainless steel, these knives are razor-sharp and durable. The set includes a chef's knife, bread knife, utility knife, and paring knife. Perfect for professional chefs and home cooks alike.",
+  "category": "Kitchen",
+  "shipping": true,
+  "featured": true
+},
+
+{
+  "id": 6,
+  "name": "4K Ultra HD Smart TV",
+  "price": 799.99,
+  "company": "TechVision",
+  "colors": ["#000000", "#333333", "#808080"],
+  "image": "https://example.com/4k-smart-tv.jpg",
+  "description": "Experience stunning visuals and immersive audio with this 4K Ultra HD Smart TV. Stream your favorite movies and shows with built-in apps. Features HDR technology for vibrant colors and deep contrast. Comes with voice remote for easy navigation.",
+  "category": "Electronics",
+  "shipping": true,
+  "featured": true
+},
+
+{
+  "id": 7,
+  "name": "Portable Bluetooth Speaker",
+  "price": 59.95,
+  "company": "SoundWave",
+  "colors": ["#008CBA", "#0044CC", "#99D9EA"],
+  "image": "https://example.com/portable-speaker.jpg",
+  "description": "Take your music anywhere with this compact portable Bluetooth speaker. Enjoy powerful sound and deep bass on the go. Features a built-in rechargeable battery for hours of playback. Waterproof and shockproof design makes it ideal for outdoor activities.",
+  "category": "Electronics",
+  "shipping": true,
+  "featured": true
+},
+
+{
+  "id": 8,
+  "name": "Wireless Charging Pad",
+  "price": 29.99,
+  "company": "ChargeTech",
+  "colors": ["#000000", "#333333", "#A9A9A9"],
+  "image": "https://example.com/wireless-charging-pad.jpg",
+  "description": "Simplify your charging experience with this wireless charging pad. Compatible with a wide range of smartphones and devices, this pad offers fast and efficient charging. Sleek and compact design fits seamlessly into any space. Includes LED indicators for charging status.",
+  "category": "Electronics",
+  "shipping": true
+},
+
+{
+  "id": 9,
+  "name": "Professional Drone with 4K Camera",
+  "price": 699.99,
+  "company": "SkyView Tech",
+  "colors": ["#000000", "#A9A9A9", "#D3D3D3"],
+  "image": "https://example.com/professional-drone.jpg",
+  "description": "Capture breathtaking aerial footage with this professional drone equipped with a 4K camera. Features intelligent flight modes, GPS navigation, and real-time video transmission. Perfect for photography, videography, and recreational flying.",
+  "category": "Electronics",
+  "shipping": true
+},
+
+{
+  "id": 10,
+  "name": "Fitness Tracker Smartwatch",
+  "price": 79.95,
+  "company": "FitLife",
+  "colors": ["#008CBA", "#00BFFF", "#1E90FF"],
+  "image": "https://example.com/fitness-smartwatch.jpg",
+  "description": "Stay fit and connected with this fitness tracker smartwatch. Track your steps, heart rate, and sleep patterns. Receive notifications for calls, messages, and apps. Waterproof design allows for use during swimming and workouts. Long-lasting battery life for uninterrupted usage.",
+  "category": "Wearables",
+  "shipping": true
+}
+
 ]
